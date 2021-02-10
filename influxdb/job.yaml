@@ -1,5 +1,5 @@
 apiVersion: batch/v1
-kind: Job
+kind: Job #Addedcomment
 metadata:
   labels:
     app.kubernetes.io/name: influxdb
